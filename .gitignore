@@ -1,0 +1,5 @@
+TaskManager.Contracts/bin/
+TaskManager.Contracts/obj/
+TaskManager/bin/
+TaskManager/obj/
+TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfo.cs
