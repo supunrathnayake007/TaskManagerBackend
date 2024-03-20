@@ -1,0 +1,10 @@
+POST http://localhost:5101/task
+Content-Type: application/json
+
+{
+    "title": "Get Groceries",
+    "note": "get meat , cheese , fruits and others ... ",
+    "CreatedDateTime": "2022-04-08T08:00:00",   
+    "isComplete":  false,
+    "completeDateTime": "2022-04-08T11:00:00"
+}
